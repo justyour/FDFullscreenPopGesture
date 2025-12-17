@@ -1,0 +1,4 @@
+module FDFullscreenPopGesture {
+    umbrella "/Users/anjun/Documents/GitHub/FDFullscreenPopGesture/Sources/FDFullscreenPopGesture/include"
+    export *
+}

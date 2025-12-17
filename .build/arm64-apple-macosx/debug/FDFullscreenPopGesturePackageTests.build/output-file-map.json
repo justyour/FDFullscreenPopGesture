@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/anjun/Documents/GitHub/FDFullscreenPopGesture/.build/arm64-apple-macosx/debug/FDFullscreenPopGesturePackageTests.build/master.swiftdeps"
+  },
+  "/Users/anjun/Documents/GitHub/FDFullscreenPopGesture/.build/arm64-apple-macosx/debug/FDFullscreenPopGesturePackageTests.derived/runner.swift": {
+    "dependencies": "/Users/anjun/Documents/GitHub/FDFullscreenPopGesture/.build/arm64-apple-macosx/debug/FDFullscreenPopGesturePackageTests.build/runner.d",
+    "object": "/Users/anjun/Documents/GitHub/FDFullscreenPopGesture/.build/arm64-apple-macosx/debug/FDFullscreenPopGesturePackageTests.build/runner.swift.o",
+    "swiftmodule": "/Users/anjun/Documents/GitHub/FDFullscreenPopGesture/.build/arm64-apple-macosx/debug/FDFullscreenPopGesturePackageTests.build/runner~partial.swiftmodule",
+    "swift-dependencies": "/Users/anjun/Documents/GitHub/FDFullscreenPopGesture/.build/arm64-apple-macosx/debug/FDFullscreenPopGesturePackageTests.build/runner.swiftdeps"
+  }
+}

@@ -1,0 +1,4 @@
+module FDFullscreenPopGesturePackageTests {
+    header "/Users/anjun/Documents/GitHub/FDFullscreenPopGesture/.build/arm64-apple-macosx/debug/FDFullscreenPopGesturePackageTests.build/FDFullscreenPopGesturePackageTests-Swift.h"
+    requires objc
+}
