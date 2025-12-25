@@ -18,7 +18,7 @@ let package = Package(
         .target(
             name: "FDFullscreenPopGesture",
             path: "Sources/FDFullscreenPopGesture",
-            publicHeadersPath: "include", cSettings: [.headerSearchPath("FDFullscreenPopGesture")]),
+            publicHeadersPath: "include"),
             
         .testTarget(
             name: "FDFullscreenPopGestureTests",
