@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "FDFullscreenPopGesture"
-  s.version      = "1.6"
+  s.version      = "1.7"
   s.summary      = "An UINavigationController's category to enable fullscreen pop gesture in iOS7+ system style with an AOP useage."
   s.description  = "An UINavigationController's category to enable fullscreen pop gesture in iOS7+ system style with an AOP useage. Just pod in 2 files and no need for any setups."
   s.homepage     = "https://github.com/forkingdog/FDFullscreenPopGesture"
@@ -15,8 +15,8 @@ Pod::Spec.new do |s|
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   s.source = { :git => "https://github.com/forkingdog/FDFullscreenPopGesture.git", :tag => s.version.to_s }
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  s.source_files  = "Sources/FDFullscreenPopGesture/*.{h,m}"
-  s.public_header_files = 'Sources/FDFullscreenPopGesture/include/*.h'
+  s.source_files  = "Sources/*.{h,m}"
+  s.public_header_files = 'Sources/include/*.h'
   # ――― Project Settings ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   s.requires_arc = true
 end
